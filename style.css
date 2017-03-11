@@ -1,0 +1,29 @@
+body{
+  width: 500px;
+  margin:auto;
+  margin-top: 100px;
+}
+input{
+  float: left;
+}
+p{
+  font-size: 12px;
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+  float:left;
+}
+textarea{
+  width: 470px;
+  float:left;
+}
+button{
+  float: left;
+}
+h1{
+  margin-top: 123px;
+  float: left;
+}
+.red{
+  box-shadow: 0 0 5px rgba(255, 0, 0, 1.5);
+}
