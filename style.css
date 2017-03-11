@@ -28,3 +28,22 @@ h1{
   border-color: red;
   box-shadow: 0 0 5px rgba(255, 0, 0, 1.5);
 }
+.drop-down{
+  display: none;
+  position: absolute;
+  z-index: 1;
+  background: yellow;
+}
+.please {
+    display: block;
+}
+.drop-down h4:hover{
+    background: lightgrey;
+}
+nav{
+  width: 100px;
+  margin: 0;
+}
+h4{
+  margin: 0;
+}
